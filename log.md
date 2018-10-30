@@ -23,3 +23,9 @@
 
 1. [Simple Fun #20: First Reverse Try] (https://www.codewars.com/kata/5886c6b2f3b6ae33dd0000be)
 2. [Remove First and Last Character] (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+
+### Day 4: October 30, 2018
+
+**Today's Progress:** Worked through Applied Accessibility and Responsive Web Design Principles of Responsive Web Design Certification on freeCodeCamp
+
+**Thoughts:**  It's been a while since I've tackled this part of front end design, so not only was it a good refresher but I also learnt some things I wasn't aware of.
