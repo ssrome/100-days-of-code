@@ -26,6 +26,12 @@
 
 ### Day 4: October 30, 2018
 
-**Today's Progress:** Worked through Applied Accessibility and Responsive Web Design Principles of Responsive Web Design Certification on freeCodeCamp
+**Today's Progress:** Worked through Applied Accessibility and Responsive Web Design Principles from Responsive Web Design Certification on freeCodeCamp
 
 **Thoughts:**  It's been a while since I've tackled this part of front end design, so not only was it a good refresher but I also learnt some things I wasn't aware of.
+
+### Day 5: October 31, 2018
+
+**Today's Progress:** Worked through CSS Flexbox and CSS Grid from Responsive Web Design Certification on freeCodeCamp
+
+**Thoughts:**  No real thoughts other than I think I was too tired when I worked on these. I feel at some point I may need to revist these to take it in properly and possibly work on a project where I can use this.
