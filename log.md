@@ -42,4 +42,4 @@
 
 **Thoughts:** I opted to skip to this as I'm still trying to think of subject for the Build a Tribute Page project. I thought doing the survey first would be a good challenge as I haven't worked on coding forms to even this kind of degree. Before going through FCC, any previous knowledge was a while back. It was a good challenge to sink my teeth into.
 
-1. (Build a Survey Form) [https://codepen.io/ssrome/pen/BGBaLW] and [https://github.com/ssrome/fcc_survey_form]
+1. [Build a Survey Form] (https://codepen.io/ssrome/pen/BGBaLW) and (https://github.com/ssrome/fcc_survey_form)
