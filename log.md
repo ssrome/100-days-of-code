@@ -35,3 +35,11 @@
 **Today's Progress:** Worked through CSS Flexbox and CSS Grid from Responsive Web Design Certification on freeCodeCamp
 
 **Thoughts:**  No real thoughts other than I think I was too tired when I worked on these. I feel at some point I may need to revist these to take it in properly and possibly work on a project where I can use this.
+
+### Day 6: November 1, 2018
+
+**Today's Progress:** Worked on Build a Survey Form on freeCodeCamp
+
+**Thoughts:** I opted to skip to this as I'm still trying to think of subject for the Build a Tribute Page project. I thought doing the survey first would be a good challenge as I haven't worked on coding forms to even this kind of degree. Before going through FCC, any previous knowledge was a while back. It was a good challenge to sink my teeth into.
+
+1. (Build a Survey Form) [https://codepen.io/ssrome/pen/BGBaLW] and [https://github.com/ssrome/fcc_survey_form]
