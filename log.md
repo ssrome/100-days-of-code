@@ -26,7 +26,7 @@
 
 ### Day 4: October 30, 2018
 
-**Today's Progress:** Worked through Applied Accessibility and Responsive Web Design Principles from Responsive Web Design Certification on freeCodeCamp
+**Today's Progress:** Worked through Applied Accessibility and Responsive Web Design Principles from the Responsive Web Design Certification on freeCodeCamp
 
 **Thoughts:**  It's been a while since I've tackled this part of front end design, so not only was it a good refresher but I also learnt some things I wasn't aware of.
 
@@ -43,3 +43,9 @@
 **Thoughts:** I opted to skip to this as I'm still trying to think of subject for the Build a Tribute Page project. I thought doing the survey first would be a good challenge as I haven't worked on coding forms to even this kind of degree. Before going through FCC, any previous knowledge was a while back. It was a good challenge to sink my teeth into.
 
 1. [Build a Survey Form] (https://codepen.io/ssrome/pen/BGBaLW) and (https://github.com/ssrome/fcc_survey_form)
+
+### Day 7: November 2, 2018
+
+**Today's Progress:** Completed Bootstrap from the Front End Libraries Certification on freeCodeCamp. Also started on Build a Tribute Page from the Responsive Web Design Projects.
+
+**Thoughts:** At some point I want to take a deeper dive into the current version Bootstrap. Though I manage to get my hour in, I didn't have enough time to make real progess on the project.
