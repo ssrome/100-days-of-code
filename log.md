@@ -49,3 +49,11 @@
 **Today's Progress:** Completed Bootstrap from the Front End Libraries Certification on freeCodeCamp. Also started on Build a Tribute Page from the Responsive Web Design Projects.
 
 **Thoughts:** At some point I want to take a deeper dive into the current version Bootstrap. Though I manage to get my hour in, I didn't have enough time to make real progess on the project.
+
+### Day 8: November 3, 2018
+
+**Today's Progress:** Worked on Build a Tribute Page on freeCodeCamp
+
+**Thoughts:** My main issue was just thinking of someone to base this on. Other than that it mostly comfortable but I needed to go over a responsive elements, as part of the requirements.
+
+1. [Build a Tribute Form] (https://codepen.io/ssrome/pen/OooJzy) and (https://github.com/ssrome/fcc_tribute-page)
