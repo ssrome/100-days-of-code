@@ -57,3 +57,16 @@
 **Thoughts:** My main issue was just thinking of someone to base this on. Other than that it mostly comfortable but I needed to go over a responsive elements, as part of the requirements.
 
 1. [Build a Tribute Form] (https://codepen.io/ssrome/pen/OooJzy) and (https://github.com/ssrome/fcc_tribute-page)
+
+### Day 9: November 4, 2018
+
+**Today's Progress:** Completed some challenges on Codewars and worked through part of Basic JavaScript on freeCodeCamp.
+
+**Thoughts:** I had taken a few days break from JavaScript as I felt like I was starting to get blocked on some of the challenges I was attempting. The break did me some good as I was able take a fresh approach on working on solutions.
+
+1. [Make a function that does arithmetic!] (https://www.codewars.com/kata/583f158ea20cfcbeb400000a/solutions/javascript)
+2. [Switch it Up!] (https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/javascript)
+3. [Convert number to reversed array of digits] (https://www.codewars.com/kata/5583090cbe83f4fd8c000051/solutions/javascript)
+4. [Remove String Spaces] (https://www.codewars.com/kata/57eae20f5500ad98e50002c5/solutions/javascript)
+5. [Convert a String to a Number!] (https://www.codewars.com/kata/544675c6f971f7399a000e79/solutions/javascript)
+6. [Are You Playing Banjo?] (https://www.codewars.com/kata/53af2b8861023f1d88000832/solutions/javascript)
