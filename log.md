@@ -70,3 +70,6 @@
 4. [Remove String Spaces] (https://www.codewars.com/kata/57eae20f5500ad98e50002c5/solutions/javascript)
 5. [Convert a String to a Number!] (https://www.codewars.com/kata/544675c6f971f7399a000e79/solutions/javascript)
 6. [Are You Playing Banjo?] (https://www.codewars.com/kata/53af2b8861023f1d88000832/solutions/javascript)
+7. [Rock Paper Scissors!] (https://www.codewars.com/kata/5672a98bdbdd995fad00000f/solutions/javascript)
+8. [Jenny's secret message] (https://www.codewars.com/kata/55225023e1be1ec8bc000390/solutions/javascript)
+
