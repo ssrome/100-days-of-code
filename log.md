@@ -64,14 +64,14 @@
 
 **Thoughts:** I had taken a few days break from JavaScript as I felt like I was starting to get blocked on some of the challenges I was attempting. The break did me some good as I was able take a fresh approach on working on solutions.
 
-1. [Make a function that does arithmetic!] (https://www.codewars.com/kata/583f158ea20cfcbeb400000a/solutions/javascript)
-2. [Switch it Up!] (https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/javascript)
-3. [Convert number to reversed array of digits] (https://www.codewars.com/kata/5583090cbe83f4fd8c000051/solutions/javascript)
-4. [Remove String Spaces] (https://www.codewars.com/kata/57eae20f5500ad98e50002c5/solutions/javascript)
-5. [Convert a String to a Number!] (https://www.codewars.com/kata/544675c6f971f7399a000e79/solutions/javascript)
-6. [Are You Playing Banjo?] (https://www.codewars.com/kata/53af2b8861023f1d88000832/solutions/javascript)
-7. [Rock Paper Scissors!] (https://www.codewars.com/kata/5672a98bdbdd995fad00000f/solutions/javascript)
-8. [Jenny's secret message] (https://www.codewars.com/kata/55225023e1be1ec8bc000390/solutions/javascript)
+1. [Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/solutions/javascript)
+2. [Switch it Up!](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/solutions/javascript)
+3. [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/solutions/javascript)
+4. [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/solutions/javascript)
+5. [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/solutions/javascript)
+6. [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832/solutions/javascript)
+7. [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/solutions/javascript)
+8. [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390/solutions/javascript)
 
 ### Day 10: November 5, 2018
 
@@ -79,8 +79,8 @@
 
 **Thoughts:** I was very limited on time so could only spend an hour. I'm finding it easier day-by-day to identify what methods I can use for the challenges. While I don't consistently write the solution on the first attempt, I am getting quicker in solving them.
 
-1. [Is n divisible by x and y?] (https://www.codewars.com/kata/5545f109004975ea66000086/solutions/javascript)
-2. [Keep Hydrated!] (https://www.codewars.com/kata/582cb0224e56e068d800003c/solutions/javascript)
-3. [Beginner - Lost Without a Map] (https://www.codewars.com/kata/57f781872e3d8ca2a000007e/solutions/javascript)
-4. [Remove exclamation marks] (https://www.codewars.com/kata/57a0885cbb9944e24c00008e/solutions/javascript)
-5. [MakeUpperCase] (https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/solutions/javascript)
+1. [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086/solutions/javascript)
+2. [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c/solutions/javascript)
+3. [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/solutions/javascript)
+4. [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/solutions/javascript)
+5. [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/solutions/javascript)
