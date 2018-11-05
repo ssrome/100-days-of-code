@@ -73,3 +73,14 @@
 7. [Rock Paper Scissors!] (https://www.codewars.com/kata/5672a98bdbdd995fad00000f/solutions/javascript)
 8. [Jenny's secret message] (https://www.codewars.com/kata/55225023e1be1ec8bc000390/solutions/javascript)
 
+### Day 10: November 5, 2018
+
+**Today's Progress:** Continued working through Basic JavaScript on freeCodeCamp and challenges on Codewars
+
+**Thoughts:** I was very limited on time so could only spend an hour. I'm finding it easier day-by-day to identify what methods I can use for the challenges. While I don't consistently write the solution on the first attempt, I am getting quicker in solving them.
+
+1. [Is n divisible by x and y?] (https://www.codewars.com/kata/5545f109004975ea66000086/solutions/javascript)
+2. [Keep Hydrated!] (https://www.codewars.com/kata/582cb0224e56e068d800003c/solutions/javascript)
+3. [Beginner - Lost Without a Map] (https://www.codewars.com/kata/57f781872e3d8ca2a000007e/solutions/javascript)
+4. [Remove exclamation marks] (https://www.codewars.com/kata/57a0885cbb9944e24c00008e/solutions/javascript)
+5. [MakeUpperCase] (https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/solutions/javascript)
