@@ -6,8 +6,8 @@
 
 **Thoughts:** I've been on Codewars for nearly a month and I'm starting to feel a bit more confident on some of the 8 kyu challenges. Today I've completed:
 
-1. [Reversed Strings] (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
-2. [Do I get a bonus?] (https://www.codewars.com/kata/56f6ad906b88de513f000d96)
+1. [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+2. [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 
 ### Day 2: October 28, 2018
 
@@ -21,8 +21,8 @@
 
 **Thoughts:** Still not feeling to confident to branch out a bit more so continuing going through freeCodeCamp.
 
-1. [Simple Fun #20: First Reverse Try] (https://www.codewars.com/kata/5886c6b2f3b6ae33dd0000be)
-2. [Remove First and Last Character] (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+1. [Simple Fun #20: First Reverse Try](https://www.codewars.com/kata/5886c6b2f3b6ae33dd0000be)
+2. [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 
 ### Day 4: October 30, 2018
 
@@ -42,7 +42,7 @@
 
 **Thoughts:** I opted to skip to this as I'm still trying to think of subject for the Build a Tribute Page project. I thought doing the survey first would be a good challenge as I haven't worked on coding forms to even this kind of degree. Before going through FCC, any previous knowledge was a while back. It was a good challenge to sink my teeth into.
 
-1. [Build a Survey Form] (https://codepen.io/ssrome/pen/BGBaLW) and (https://github.com/ssrome/fcc_survey_form)
+1. Build a Survey Form [Codepen](https://codepen.io/ssrome/pen/BGBaLW) and [Github](https://github.com/ssrome/fcc_survey_form)
 
 ### Day 7: November 2, 2018
 
@@ -56,7 +56,7 @@
 
 **Thoughts:** My main issue was just thinking of someone to base this on. Other than that it mostly comfortable but I needed to go over a responsive elements, as part of the requirements.
 
-1. [Build a Tribute Form] (https://codepen.io/ssrome/pen/OooJzy) and (https://github.com/ssrome/fcc_tribute-page)
+1. Build a Tribute Form [Codepen](https://codepen.io/ssrome/pen/OooJzy) and [Github](https://github.com/ssrome/fcc_tribute-page)
 
 ### Day 9: November 4, 2018
 
@@ -84,3 +84,9 @@
 3. [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/solutions/javascript)
 4. [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/solutions/javascript)
 5. [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/solutions/javascript)
+
+### Day 11: November 6, 2018
+
+**Today's Progress:** Continued working through Basic JavaScript on freeCodeCamp
+
+**Thoughts:** Again I could only do the mininum hour. The lack of time to really get stuck into things is becoming a factor this week and I don't see it being any better before the weekend. Insted of doing it after work, and other activities, I might have to try this before work.
