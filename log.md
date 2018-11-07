@@ -90,3 +90,9 @@
 **Today's Progress:** Continued working through Basic JavaScript on freeCodeCamp
 
 **Thoughts:** Again I could only do the mininum hour. The lack of time to really get stuck into things is becoming a factor this week and I don't see it being any better before the weekend. Insted of doing it after work, and other activities, I might have to try this before work.
+
+### Day 12: November 7, 2018
+
+**Today's Progress:** Working through ES6 as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp
+
+**Thoughts:** As I finished Basic JavaScript, I moved on to ES6. I found some parts confusing. Not sure if it was understanding or the way the course was writter. I will keep plowing on and will probably go over this on another site.
