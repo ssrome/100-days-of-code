@@ -96,3 +96,10 @@
 **Today's Progress:** Working through ES6 as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp
 
 **Thoughts:** As I finished Basic JavaScript, I moved on to ES6. I found some parts confusing. Not sure if it was understanding or the way the course was writter. I will keep plowing on and will probably go over this on another site.
+
+### Day 13: November 8, 2018
+
+**Today's Progress:** Working through Regular Expressions as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp
+
+
+**Thoughts:** The only exposure to regular expression as been when a challenge has asked to remove or replace so it was good to really take a deeper view into this.
