@@ -101,5 +101,10 @@
 
 **Today's Progress:** Working through Regular Expressions as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp
 
-
 **Thoughts:** The only exposure to regular expression as been when a challenge has asked to remove or replace so it was good to really take a deeper view into this.
+
+### Day 14: November 9, 2018
+
+**Today's Progress:** Working through Regular Expressions and Debugging as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp
+
+**Thoughts:** No real thoughts other than I'm looking forward to having a bit more time so I can resume working on three outstanding Responsive Web Design Projects I need to complete.
