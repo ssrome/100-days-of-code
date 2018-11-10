@@ -108,3 +108,11 @@
 **Today's Progress:** Working through Regular Expressions and Debugging as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp
 
 **Thoughts:** No real thoughts other than I'm looking forward to having a bit more time so I can resume working on three outstanding Responsive Web Design Projects I need to complete.
+
+### Day 15: November 10, 2018
+
+**Today's Progress:** Working through Basic Data Structures as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp and challenges on Codewars
+
+**Thoughts:** Was struggling a bit today. Not sure if it has anything to do with my general tiredness.
+
+1. [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055/solutions/javascript)
