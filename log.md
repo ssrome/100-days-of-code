@@ -116,3 +116,13 @@
 **Thoughts:** Was struggling a bit today. Not sure if it has anything to do with my general tiredness.
 
 1. [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055/solutions/javascript)
+
+### Day 16: November 11, 2018
+
+**Today's Progress:** Working through Basic Algorithm Scripting as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp and challenges on Codewars
+
+**Thoughts:** Another day, another struggle. I think my current physical and mental state of exhaustion is starting to get to me. Today I really felt like I was struggling to work out tasks. I really do have to rethink the time of the day I'm learning.
+
+1. [Transportation on vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016/solutions/javascript)
+2. [My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55/solutions/javascript)
+3. [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025/solutions/javascript)
