@@ -126,3 +126,12 @@
 1. [Transportation on vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016/solutions/javascript)
 2. [My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55/solutions/javascript)
 3. [Basic variable assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025/solutions/javascript)
+
+### Day 17: November 12, 2018
+
+**Today's Progress:** JavaScript challenges on Codewars and Exercism
+
+**Thoughts:** The struggle continues. I came back to a challenge that I had originally started on Exercism before I committed to 100 days of code. I thought coming back to it with fresh eyes and extra knowledge would help but it hasn't. Plus I'm still struggling in general. Starting earlier in the evening didn't help my thought process. Now on to getting more sleep.
+
+1. [Calculate Price Excluding VAT](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/solutions/javascript)
+2. [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/solutions/javascript)
