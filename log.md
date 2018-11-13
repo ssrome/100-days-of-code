@@ -143,4 +143,5 @@
 **Thoughts:** I have hit a big massive wall. While I might have finsihed challenges on Codewars, I'm still struggling on the same Exercism challenge. A review is going to be required.
 
 1. [How old will I be in 2099?](https://www.codewars.com/kata/5761a717780f8950ce001473/solutions/javascript)
-2. [Fix the Bugs (Syntax) - My First Kata]()
+2. [Fix the Bugs (Syntax) - My First Kata](https://www.codewars.com/kata/56aed32a154d33a1f3000018/solutions/javascript)
+
