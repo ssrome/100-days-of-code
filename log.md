@@ -135,3 +135,12 @@
 
 1. [Calculate Price Excluding VAT](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/solutions/javascript)
 2. [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/solutions/javascript)
+
+### Day 18: November 13, 2018
+
+**Today's Progress:** JavaScript challenges on Codewars and Exercism
+
+**Thoughts:** I have hit a big massive wall. While I might have finsihed challenges on Codewars, I'm still struggling on the same Exercism challenge. A review is going to be required.
+
+1. [How old will I be in 2099?](https://www.codewars.com/kata/5761a717780f8950ce001473/solutions/javascript)
+2. [Fix the Bugs (Syntax) - My First Kata]()
