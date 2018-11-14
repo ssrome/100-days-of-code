@@ -144,4 +144,16 @@
 
 1. [How old will I be in 2099?](https://www.codewars.com/kata/5761a717780f8950ce001473/solutions/javascript)
 2. [Fix the Bugs (Syntax) - My First Kata](https://www.codewars.com/kata/56aed32a154d33a1f3000018/solutions/javascript)
+3. [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102/solutions/javascript)
+4. [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5/solutions/javascript)
 
+### Day 19: November 14, 2018
+
+**Today's Progress:** JavaScript challenges on Codewars
+
+**Thoughts:** Using Codewars as a way to practice and feel confident writing Javascript. I've been trying to solve problems in the fewest amount of lines possible so it's easier for me to read and get use to writing cleaner code.
+
+1. [Holiday VIII - Duty Free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/solutions/javascript)
+2. [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/solutions/javascript)
+3. [Is he gonna survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c/solutions/javascript)
+4. [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/solutions/javascript)
