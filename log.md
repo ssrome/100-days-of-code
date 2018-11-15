@@ -157,3 +157,19 @@
 2. [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/solutions/javascript)
 3. [Is he gonna survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c/solutions/javascript)
 4. [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/solutions/javascript)
+5. [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/solutions/javascript)
+
+### Day 20: November 15, 2018
+
+**Today's Progress:** Challenges on Exercism and Codewars
+
+**Thoughts:** My confidence is starting to slowly increase. It's been a while since I last finished an Exercism challenge (before I committed to 100 days of code) so completing one made me feel good. Long may it continue. 
+
+Exercism
+1. [Darts](https://exercism.io/tracks/javascript/exercises/darts/solutions/2e217b959e5c4e0a961266eb8462c174)
+
+Codewars
+1. [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0/solutions/javascript)
+2. [Determine offspring sex based on genes XX and XY chromosomes](https://www.codewars.com/kata/56530b444e831334c0000020/solutions/javascript)
+3. [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/solutions/javascript)
+4. [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b/solutions/javascript)
