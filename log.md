@@ -165,11 +165,19 @@
 
 **Thoughts:** My confidence is starting to slowly increase. It's been a while since I last finished an Exercism challenge (before I committed to 100 days of code) so completing one made me feel good. Long may it continue. 
 
-Exercism
+**Exercism:**
 1. [Darts](https://exercism.io/tracks/javascript/exercises/darts/solutions/2e217b959e5c4e0a961266eb8462c174)
 
-Codewars
+**Codewars:**
 1. [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0/solutions/javascript)
 2. [Determine offspring sex based on genes XX and XY chromosomes](https://www.codewars.com/kata/56530b444e831334c0000020/solutions/javascript)
 3. [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/solutions/javascript)
 4. [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b/solutions/javascript)
+5. [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086/solutions/javascript)
+
+### Day 21: November 16, 2018
+
+**Today's Progress:** Challenges on Codewars
+
+**Thoughts:** Still getting into the swing of things
+1. [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/solutions/javascript)
