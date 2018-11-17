@@ -179,5 +179,25 @@
 
 **Today's Progress:** Challenges on Codewars
 
-**Thoughts:** Still getting into the swing of things
+**Thoughts:** Still getting into the swing of things but I gradually feel the improvement.
+
 1. [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/solutions/javascript)
+2. [USD => CNY](https://www.codewars.com/kata/5977618080ef220766000022/solutions/javascript)
+3. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/solutions/javascript)
+
+### Day 22: November 17, 2018
+
+**Today's Progress:** Challenges on Codewars
+
+**Thoughts:** I only had time to do challenges today. Hoping that with more time tomorrow, I can get back to working on one of my projects.
+
+1. [Return the day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/solutions/javascript)
+2. [Find the Remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f/solutions/javascript)
+3. [Grasshopper - If/else syntax debug](https://www.codewars.com/kata/57089707fe2d01529f00024a/solutions/javascript)
+4. [Age Range Compatibility Equation](https://www.codewars.com/kata/5803956ddb07c5c74200144e/solutions/javascript)
+5. [Grader](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c/solutions/javascript)
+6. [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4/solutions/javascript)
+7. [Drink about](https://www.codewars.com/kata/56170e844da7c6f647000063/solutions/javascript)
+8. [You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4/solutions/javascript)
+9. [pick a set of first elements](https://www.codewars.com/kata/572b77262bedd351e9000076/solutions/javascript)
+10. [FIXME: Replace all dots](https://www.codewars.com/kata/596c6eb85b0f515834000049/solutions/javascript)
