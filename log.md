@@ -201,3 +201,14 @@
 8. [You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4/solutions/javascript)
 9. [pick a set of first elements](https://www.codewars.com/kata/572b77262bedd351e9000076/solutions/javascript)
 10. [FIXME: Replace all dots](https://www.codewars.com/kata/596c6eb85b0f515834000049/solutions/javascript)
+
+### Day 23: November 18, 2018
+
+**Today's Progress:** Challenges on Codewars
+
+**Thoughts:** Didn't seem to have as much time as I thought I would. The next few days will be challenging as I will be travelling for work and won't have access to my personal devices. I will be limited to just doing more challenges but not sure if I can log on until I'm back home.
+
+1. [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/solutions/javascript)
+2. [Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/solutions/javascript)
+3. [isReallyNaN](https://www.codewars.com/kata/56c24c58e0c0f741d4001aef/solutions/javascript)
+4. [Sum The Strings](https://www.codewars.com/kata/sum-the-strings/solutions/javascript)
