@@ -212,3 +212,31 @@
 2. [Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/solutions/javascript)
 3. [isReallyNaN](https://www.codewars.com/kata/56c24c58e0c0f741d4001aef/solutions/javascript)
 4. [Sum The Strings](https://www.codewars.com/kata/sum-the-strings/solutions/javascript)
+
+### Day 24: November 19, 2018
+
+**Today's Progress:** Working through challenges on Codewars. https://twitter.com/saromsaweb/status/1064639963139112960
+
+**Thoughts:**
+Day 1 of travelling for work. As I’m on my work laptop, and don’t have things set up on it, I’m limited to Codewars.
+
+1. [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/solutions/javascript)
+2. [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/solutions/javascript)
+3. [Can we divide it?](https://www.codewars.com/kata/5a2b703dc5e2845c0900005a/solutions/javascript)
+4. [Get Planet Name By ID](https://www.codewars.com/kata/515e188a311df01cba000003/solutions/javascript)
+5. [Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/solutions/javascript)
+6. [Is it even?](https://www.codewars.com/kata/555a67db74814aa4ee0001b5/solutions/javascript)
+
+### Day 25: November 22, 2018
+
+**Today's Progress:** Challenges on Codewars. https://twitter.com/saromsaweb/status/1065751794767327233
+
+**Thoughts:**
+I knew it was going to be challenging over the earlier part of the week. Travelling for work meant that I didn't have control over my time so I was only able to do something for one day out of the three days I was away for. Back into te=he swing of things. Still haven't had enough to do anything more than these challenges.
+
+1. [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/solutions/javascript)
+2. [How many lightsabers do you own?](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/solutions/javascript)
+3. [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/solutions/javascript)
+4. [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158/solutions/javascript)
+5. [Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/solutions/javascript)
+6. [Basic Training: Add item to an Array](https://www.codewars.com/kata/511f0fe64ae8683297000001/solutions/javascript)
