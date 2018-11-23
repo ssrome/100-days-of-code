@@ -232,7 +232,7 @@ Day 1 of travelling for work. As I’m on my work laptop, and don’t have thing
 **Today's Progress:** Challenges on Codewars. https://twitter.com/saromsaweb/status/1065751794767327233
 
 **Thoughts:**
-I knew it was going to be challenging over the earlier part of the week. Travelling for work meant that I didn't have control over my time so I was only able to do something for one day out of the three days I was away for. Back into te=he swing of things. Still haven't had enough to do anything more than these challenges.
+I knew it was going to be challenging over the earlier part of the week. Travelling for work meant that I didn't have control over my time so I was only able to do something for one day out of the three days I was away for. Back into the swing of things. Still haven't had enough to do anything more than these challenges.
 
 1. [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/solutions/javascript)
 2. [How many lightsabers do you own?](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/solutions/javascript)
@@ -240,3 +240,17 @@ I knew it was going to be challenging over the earlier part of the week. Travell
 4. [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158/solutions/javascript)
 5. [Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/solutions/javascript)
 6. [Basic Training: Add item to an Array](https://www.codewars.com/kata/511f0fe64ae8683297000001/solutions/javascript)
+
+### Day 26: November 23, 2018
+
+**Today's Progress:** Challenges on Codewars.
+
+**Thoughts:**
+Friday's are always challenging as not only is it the end of the week, outside forces limit my time.
+
+1. [Vowel remover](https://www.codewars.com/kata/5547929140907378f9000039/solutions/javascript)
+2. [Formatting decimal places #0](https://www.codewars.com/kata/5641a03210e973055a00000d/solutions/javascript)
+3. [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7/solutions/javascript)
+4. [Printing Array elements with Comma delimiters](https://www.codewars.com/kata/56e2f59fb2ed128081001328/solutions/javascript)
+5. [Leonardo Dicaprio and Oscars](https://www.codewars.com/kata/56d49587df52101de70011e4/solutions/javascript)
+6. [Man in the west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b/solutions/javascript)
