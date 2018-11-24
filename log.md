@@ -2,7 +2,7 @@
 
 ### Day 1: October 27, 2018
 
-**Today's Progress:** Continued Applied Visual Design part, of the Responsive Web Design Certification, on freeCodeCamp. Also completed some challenges on Codewars.
+**Today's Progress:** Continued Applied Visual Design part, of the Responsive Web Design Certification, on freeCodeCamp. Also completed some challenges on Codewars. https://twitter.com/saromsaweb/status/1056275257772912645
 
 **Thoughts:** I've been on Codewars for nearly a month and I'm starting to feel a bit more confident on some of the 8 kyu challenges. Today I've completed:
 
@@ -11,13 +11,13 @@
 
 ### Day 2: October 28, 2018
 
-**Today's Progress:** Worked on Basic Javascript on freeCodeCamp
+**Today's Progress:** Worked on Basic Javascript on freeCodeCamp https://twitter.com/saromsaweb/status/1056692306550681602
 
 **Thoughts:** I wanted to to take a step back and refresh my brain some of the basics of Javascript as I feel I jumped ahead of myself in taking on challenges. I've started to find myself stuck so I started to look at the Javascript section on freeCodeCamp.
 
 ### Day 3: October 29, 2018
 
-**Today's Progress:** Continued on Basic Javascript on freeCodeCamp and completed some challenges on Codewars.
+**Today's Progress:** Continued on Basic Javascript on freeCodeCamp and completed some challenges on Codewars. https://twitter.com/saromsaweb/status/1057035126004240385
 
 **Thoughts:** Still not feeling to confident to branch out a bit more so continuing going through freeCodeCamp.
 
@@ -26,19 +26,19 @@
 
 ### Day 4: October 30, 2018
 
-**Today's Progress:** Worked through Applied Accessibility and Responsive Web Design Principles from the Responsive Web Design Certification on freeCodeCamp
+**Today's Progress:** Worked through Applied Accessibility and Responsive Web Design Principles from the Responsive Web Design Certification on freeCodeCamp https://twitter.com/saromsaweb/status/1057406124687876099
 
 **Thoughts:**  It's been a while since I've tackled this part of front end design, so not only was it a good refresher but I also learnt some things I wasn't aware of.
 
 ### Day 5: October 31, 2018
 
-**Today's Progress:** Worked through CSS Flexbox and CSS Grid from Responsive Web Design Certification on freeCodeCamp
+**Today's Progress:** Worked through CSS Flexbox and CSS Grid from Responsive Web Design Certification on freeCodeCamp https://twitter.com/saromsaweb/status/1057781374910951424
 
 **Thoughts:**  No real thoughts other than I think I was too tired when I worked on these. I feel at some point I may need to revist these to take it in properly and possibly work on a project where I can use this.
 
 ### Day 6: November 1, 2018
 
-**Today's Progress:** Worked on Build a Survey Form on freeCodeCamp
+**Today's Progress:** Worked on Build a Survey Form on freeCodeCamp https://twitter.com/saromsaweb/status/1058144869124837376
 
 **Thoughts:** I opted to skip to this as I'm still trying to think of subject for the Build a Tribute Page project. I thought doing the survey first would be a good challenge as I haven't worked on coding forms to even this kind of degree. Before going through FCC, any previous knowledge was a while back. It was a good challenge to sink my teeth into.
 
@@ -46,13 +46,13 @@
 
 ### Day 7: November 2, 2018
 
-**Today's Progress:** Completed Bootstrap from the Front End Libraries Certification on freeCodeCamp. Also started on Build a Tribute Page from the Responsive Web Design Projects.
+**Today's Progress:** Completed Bootstrap from the Front End Libraries Certification on freeCodeCamp. Also started on Build a Tribute Page from the Responsive Web Design Projects. https://twitter.com/saromsaweb/status/1058495750974435331
 
 **Thoughts:** At some point I want to take a deeper dive into the current version Bootstrap. Though I manage to get my hour in, I didn't have enough time to make real progess on the project.
 
 ### Day 8: November 3, 2018
 
-**Today's Progress:** Worked on Build a Tribute Page on freeCodeCamp
+**Today's Progress:** Worked on Build a Tribute Page on freeCodeCamp https://twitter.com/saromsaweb/status/1058746482650726400
 
 **Thoughts:** My main issue was just thinking of someone to base this on. Other than that it mostly comfortable but I needed to go over a responsive elements, as part of the requirements.
 
@@ -60,7 +60,7 @@
 
 ### Day 9: November 4, 2018
 
-**Today's Progress:** Completed some challenges on Codewars and worked through part of Basic JavaScript on freeCodeCamp.
+**Today's Progress:** Completed some challenges on Codewars and worked through part of Basic JavaScript on freeCodeCamp. https://twitter.com/saromsaweb/status/1059216000225345536
 
 **Thoughts:** I had taken a few days break from JavaScript as I felt like I was starting to get blocked on some of the challenges I was attempting. The break did me some good as I was able take a fresh approach on working on solutions.
 
@@ -75,7 +75,7 @@
 
 ### Day 10: November 5, 2018
 
-**Today's Progress:** Continued working through Basic JavaScript on freeCodeCamp and challenges on Codewars
+**Today's Progress:** Continued working through Basic JavaScript on freeCodeCamp and challenges on Codewars https://twitter.com/saromsaweb/status/1059587781989752832
 
 **Thoughts:** I was very limited on time so could only spend an hour. I'm finding it easier day-by-day to identify what methods I can use for the challenges. While I don't consistently write the solution on the first attempt, I am getting quicker in solving them.
 
@@ -243,7 +243,7 @@ I knew it was going to be challenging over the earlier part of the week. Travell
 
 ### Day 26: November 23, 2018
 
-**Today's Progress:** Challenges on Codewars.
+**Today's Progress:** Challenges on Codewars. https://twitter.com/saromsaweb/status/1066100149217316864
 
 **Thoughts:**
 Friday's are always challenging as not only is it the end of the week, outside forces limit my time.
@@ -254,3 +254,13 @@ Friday's are always challenging as not only is it the end of the week, outside f
 4. [Printing Array elements with Comma delimiters](https://www.codewars.com/kata/56e2f59fb2ed128081001328/solutions/javascript)
 5. [Leonardo Dicaprio and Oscars](https://www.codewars.com/kata/56d49587df52101de70011e4/solutions/javascript)
 6. [Man in the west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b/solutions/javascript)
+
+### Day 27: November 24, 2018
+
+**Today's Progress:** Codewars challenges and some work on FCC responsive web design project https://twitter.com/saromsaweb/status/1066477755670454273
+
+**Thoughts:** A bit of a struggle today and I feel I need to go back over some JavaScript fundamentals. Worked on one of the outstanding FCC responsive web design projects I still have yet to complete.
+
+1. [Grasshopper - Combine strings](https://www.codewars.com/kata/55f73f66d160f1f1db000059/solutions/javascript)
+2. [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/solutions/javascript)
+3. [Greet Me](https://www.codewars.com/kata/535474308bb336c9980006f2/solutions/javascript)
