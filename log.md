@@ -87,31 +87,31 @@
 
 ### Day 11: November 6, 2018
 
-**Today's Progress:** Continued working through Basic JavaScript on freeCodeCamp
+**Today's Progress:** Continued working through Basic JavaScript on freeCodeCamp https://twitter.com/saromsaweb/status/1059952542325661697
 
 **Thoughts:** Again I could only do the mininum hour. The lack of time to really get stuck into things is becoming a factor this week and I don't see it being any better before the weekend. Insted of doing it after work, and other activities, I might have to try this before work.
 
 ### Day 12: November 7, 2018
 
-**Today's Progress:** Working through ES6 as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp
+**Today's Progress:** Working through ES6 as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp https://twitter.com/saromsaweb/status/1060319920137924610
 
 **Thoughts:** As I finished Basic JavaScript, I moved on to ES6. I found some parts confusing. Not sure if it was understanding or the way the course was writter. I will keep plowing on and will probably go over this on another site.
 
 ### Day 13: November 8, 2018
 
-**Today's Progress:** Working through Regular Expressions as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp
+**Today's Progress:** Working through Regular Expressions as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp https://twitter.com/saromsaweb/status/1060682403780481024
 
 **Thoughts:** The only exposure to regular expression as been when a challenge has asked to remove or replace so it was good to really take a deeper view into this.
 
 ### Day 14: November 9, 2018
 
-**Today's Progress:** Working through Regular Expressions and Debugging as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp
+**Today's Progress:** Working through Regular Expressions and Debugging as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp https://twitter.com/saromsaweb/status/1061041598413357059
 
 **Thoughts:** No real thoughts other than I'm looking forward to having a bit more time so I can resume working on three outstanding Responsive Web Design Projects I need to complete.
 
 ### Day 15: November 10, 2018
 
-**Today's Progress:** Working through Basic Data Structures as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp and challenges on Codewars
+**Today's Progress:** Working through Basic Data Structures as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp and challenges on Codewars https://twitter.com/saromsaweb/status/1061384913612689408
 
 **Thoughts:** Was struggling a bit today. Not sure if it has anything to do with my general tiredness.
 
@@ -119,7 +119,7 @@
 
 ### Day 16: November 11, 2018
 
-**Today's Progress:** Working through Basic Algorithm Scripting as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp and challenges on Codewars
+**Today's Progress:** Working through Basic Algorithm Scripting as part of the Javascript Algorithms And Data Structures Certification on freeCodeCamp and challenges on Codewars https://twitter.com/saromsaweb/status/1061746683103592448
 
 **Thoughts:** Another day, another struggle. I think my current physical and mental state of exhaustion is starting to get to me. Today I really felt like I was struggling to work out tasks. I really do have to rethink the time of the day I'm learning.
 
@@ -129,7 +129,7 @@
 
 ### Day 17: November 12, 2018
 
-**Today's Progress:** JavaScript challenges on Codewars and Exercism
+**Today's Progress:** JavaScript challenges on Codewars and Exercism https://twitter.com/saromsaweb/status/1062125376309215238
 
 **Thoughts:** The struggle continues. I came back to a challenge that I had originally started on Exercism before I committed to 100 days of code. I thought coming back to it with fresh eyes and extra knowledge would help but it hasn't. Plus I'm still struggling in general. Starting earlier in the evening didn't help my thought process. Now on to getting more sleep.
 
@@ -138,7 +138,7 @@
 
 ### Day 18: November 13, 2018
 
-**Today's Progress:** JavaScript challenges on Codewars and Exercism
+**Today's Progress:** JavaScript challenges on Codewars and Exercism https://twitter.com/saromsaweb/status/1062486372664119296
 
 **Thoughts:** I have hit a big massive wall. While I might have finsihed challenges on Codewars, I'm still struggling on the same Exercism challenge. A review is going to be required.
 
@@ -149,7 +149,7 @@
 
 ### Day 19: November 14, 2018
 
-**Today's Progress:** JavaScript challenges on Codewars
+**Today's Progress:** JavaScript challenges on Codewars https://twitter.com/saromsaweb/status/1062817490038857730
 
 **Thoughts:** Using Codewars as a way to practice and feel confident writing Javascript. I've been trying to solve problems in the fewest amount of lines possible so it's easier for me to read and get use to writing cleaner code.
 
@@ -161,7 +161,7 @@
 
 ### Day 20: November 15, 2018
 
-**Today's Progress:** Challenges on Exercism and Codewars
+**Today's Progress:** Challenges on Exercism and Codewars https://twitter.com/saromsaweb/status/1063191795683733504
 
 **Thoughts:** My confidence is starting to slowly increase. It's been a while since I last finished an Exercism challenge (before I committed to 100 days of code) so completing one made me feel good. Long may it continue. 
 
@@ -177,7 +177,7 @@
 
 ### Day 21: November 16, 2018
 
-**Today's Progress:** Challenges on Codewars
+**Today's Progress:** Challenges on Codewars https://twitter.com/saromsaweb/status/1063575813533171713
 
 **Thoughts:** Still getting into the swing of things but I gradually feel the improvement.
 
@@ -187,7 +187,7 @@
 
 ### Day 22: November 17, 2018
 
-**Today's Progress:** Challenges on Codewars
+**Today's Progress:** Challenges on Codewars https://twitter.com/saromsaweb/status/1063808220681170945
 
 **Thoughts:** I only had time to do challenges today. Hoping that with more time tomorrow, I can get back to working on one of my projects.
 
@@ -204,7 +204,7 @@
 
 ### Day 23: November 18, 2018
 
-**Today's Progress:** Challenges on Codewars
+**Today's Progress:** Challenges on Codewars https://twitter.com/saromsaweb/status/1064269228398845953
 
 **Thoughts:** Didn't seem to have as much time as I thought I would. The next few days will be challenging as I will be travelling for work and won't have access to my personal devices. I will be limited to just doing more challenges but not sure if I can log on until I'm back home.
 
@@ -264,3 +264,16 @@ Friday's are always challenging as not only is it the end of the week, outside f
 1. [Grasshopper - Combine strings](https://www.codewars.com/kata/55f73f66d160f1f1db000059/solutions/javascript)
 2. [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/solutions/javascript)
 3. [Greet Me](https://www.codewars.com/kata/535474308bb336c9980006f2/solutions/javascript)
+
+### Day 28: November 25, 2018
+
+**Today's Progress:** Codewars challenges and some work on outstanding FCC responsive web design projects 
+
+**Thoughts:** A better day coding despite the fact I wasn't feeling so great in general.
+
+1. [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/solutions/javascript)
+2. [Grasshopper - Terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d/solutions/javascript)
+3. [Grasshopper - Debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1/solutions/javascript)
+4. [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/solutions/javascript)
+5. [No Loops 2 - You only need one](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/solutions/javascript)
+6. [Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0/solutions/javascript)
