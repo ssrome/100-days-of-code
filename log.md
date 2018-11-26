@@ -277,3 +277,9 @@ Friday's are always challenging as not only is it the end of the week, outside f
 4. [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003/solutions/javascript)
 5. [No Loops 2 - You only need one](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/solutions/javascript)
 6. [Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0/solutions/javascript)
+
+### Day 29: November 26, 2018
+
+**Today's Progress:** Worked on outstanding FCC responsive web design projects 
+
+**Thoughts:** Taking a rest from JavaScript so I can resume working on HTML and CSS based projects. I'm looking to get started soon, on some projects that I can show off the combination of HTML, CSS and JavaScript.
