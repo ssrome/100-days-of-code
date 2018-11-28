@@ -267,7 +267,7 @@ Friday's are always challenging as not only is it the end of the week, outside f
 
 ### Day 28: November 25, 2018
 
-**Today's Progress:** Codewars challenges and some work on outstanding FCC responsive web design projects 
+**Today's Progress:** Codewars challenges and some work on outstanding FCC responsive web design projects https://twitter.com/saromsaweb/status/1066813713943023616
 
 **Thoughts:** A better day coding despite the fact I wasn't feeling so great in general.
 
@@ -280,6 +280,12 @@ Friday's are always challenging as not only is it the end of the week, outside f
 
 ### Day 29: November 26, 2018
 
-**Today's Progress:** Worked on outstanding FCC responsive web design projects 
+**Today's Progress:** Worked on outstanding FCC responsive web design projects https://twitter.com/saromsaweb/status/1067194225278758912
 
 **Thoughts:** Taking a rest from JavaScript so I can resume working on HTML and CSS based projects. I'm looking to get started soon, on some projects that I can show off the combination of HTML, CSS and JavaScript.
+
+### Day 30: November 28, 2018
+
+**Today's Progress:** Continued working on outstanding FCC responsive web design projects https://twitter.com/saromsaweb/status/1067925547831971840
+
+**Thoughts:** Was unable to do any work yesterday. Today, my general tiredness, due to lack of sleep and travelling to Leicester and back to London, on the same day, took it’s toll and I struggled. Hoping for a better day tomorrow.
