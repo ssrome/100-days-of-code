@@ -289,3 +289,11 @@ Friday's are always challenging as not only is it the end of the week, outside f
 **Today's Progress:** Continued working on outstanding FCC responsive web design projects https://twitter.com/saromsaweb/status/1067925547831971840
 
 **Thoughts:** Was unable to do any work yesterday. Today, my general tiredness, due to lack of sleep and travelling to Leicester and back to London, on the same day, took it’s toll and I struggled. Hoping for a better day tomorrow.
+
+### Day 31: December 16, 2018
+
+**Today's Progress:** Continued working on outstanding FCC responsive web design projects https://twitter.com/saromsaweb/status/1074440131623481345
+
+**Thoughts:** It's been a couple of weeks since I have been on this challenge. I posed the question of whether I was to start a new challenge since it had been quite a while since I last coded. A response on Twitter encouraged me to resume the current challenge instead of starting again.
+
+I did feel it took me a while to get back into the swing of things and I feel like it will take a few days for me to feel like I'm making real progress again.
