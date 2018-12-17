@@ -297,3 +297,9 @@ Friday's are always challenging as not only is it the end of the week, outside f
 **Thoughts:** It's been a couple of weeks since I have been on this challenge. I posed the question of whether I was to start a new challenge since it had been quite a while since I last coded. A response on Twitter encouraged me to resume the current challenge instead of starting again.
 
 I did feel it took me a while to get back into the swing of things and I feel like it will take a few days for me to feel like I'm making real progress again.
+
+### Day 32: December 17, 2018
+
+**Today's Progress:** Continued working on outstanding FCC responsive web design projects 
+
+**Thoughts:** My initial plan for today was to work on some Javascript challenges but that didn't work out so I continued on the responsive projects I still need to work on. I still feel like I'm not quite up to full capacity.
