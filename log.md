@@ -300,6 +300,16 @@ I did feel it took me a while to get back into the swing of things and I feel li
 
 ### Day 32: December 17, 2018
 
-**Today's Progress:** Continued working on outstanding FCC responsive web design projects 
+**Today's Progress:** Continued working on outstanding FCC responsive web design projects https://twitter.com/saromsaweb/status/1074810935796211713
 
 **Thoughts:** My initial plan for today was to work on some Javascript challenges but that didn't work out so I continued on the responsive projects I still need to work on. I still feel like I'm not quite up to full capacity.
+
+### Day 33: December 19, 2018
+
+**Today's Progress:** JavaScript challenges on Codewars https://twitter.com/saromsaweb/status/1075533150753824768 
+
+**Thoughts:** Thought I would try to get back to doing some JavaScript challenges. A couple of the ones I picked covered things that I wasn't aware of. Not only do I need to go through more of the methods, I think I will also require a refresh to help me get back into the swing of things.
+
+1. [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d/solutions/javascript)
+2. [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/solutions/javascript)
+3. [get character from ASCII Value](https://www.codewars.com/kata/55ad04714f0b468e8200001c/solutions/javascript)
