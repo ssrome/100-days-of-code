@@ -313,3 +313,12 @@ I did feel it took me a while to get back into the swing of things and I feel li
 1. [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d/solutions/javascript)
 2. [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/solutions/javascript)
 3. [get character from ASCII Value](https://www.codewars.com/kata/55ad04714f0b468e8200001c/solutions/javascript)
+
+### Day 34: December 20, 2018
+
+**Today's Progress:** JavaScript challenges on Codewars and FCC Object Oriented Programming Challenges 
+
+**Thoughts:** Thought it was best to take a step back and revisit some Javascript principles.
+
+1. [get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d/solutions/javascript)
+2. [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b/solutions/javascript)
