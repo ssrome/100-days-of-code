@@ -322,3 +322,9 @@ I did feel it took me a while to get back into the swing of things and I feel li
 
 1. [get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d/solutions/javascript)
 2. [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b/solutions/javascript)
+
+### Day 35: December 21, 2018
+
+**Today's Progress:** Continued Object Oriented Programming Challenges on FreeCodeCamp
+
+**Thoughts:** Pretty much the same as the rest of the week. Going back to the fundamentals. Looking to get back to some actual projects over the break.
