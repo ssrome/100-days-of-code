@@ -328,3 +328,9 @@ I did feel it took me a while to get back into the swing of things and I feel li
 **Today's Progress:** Continued Object Oriented Programming Challenges on FreeCodeCamp
 
 **Thoughts:** Pretty much the same as the rest of the week. Going back to the fundamentals. Looking to get back to some actual projects over the break.
+
+### Day 36: December 28, 2018
+
+**Today's Progress:** Continued Javascript Algorithms And Data Structures Certification on FreeCodeCamp, which included Functional Programming
+
+**Thoughts:** I have been finding it hard to continue this challenge on a consistent basis over the past few weeks. It's hard to get my head in the right space to fully concentrate and take things in.
