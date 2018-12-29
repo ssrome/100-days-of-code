@@ -320,6 +320,7 @@ I did feel it took me a while to get back into the swing of things and I feel li
 
 **Thoughts:** Thought it was best to take a step back and revisit some Javascript principles.
 
+**Link(s) to work**
 1. [get ascii value of character](https://www.codewars.com/kata/55acfc59c3c23d230f00006d/solutions/javascript)
 2. [Hello, Name or World!](https://www.codewars.com/kata/57e3f79c9cb119374600046b/solutions/javascript)
 
@@ -334,3 +335,11 @@ I did feel it took me a while to get back into the swing of things and I feel li
 **Today's Progress:** Continued Javascript Algorithms And Data Structures Certification on FreeCodeCamp, which included Functional Programming
 
 **Thoughts:** I have been finding it hard to continue this challenge on a consistent basis over the past few weeks. It's hard to get my head in the right space to fully concentrate and take things in.
+
+### Day 37: December 29, 2018
+
+**Today's Progress:** jQuery and Sass from Front End Libraries Certification on FreeCodeCamp
+
+**Thoughts:** Felt at ease working through these sections. I needed to step away from the Javascript challenges for a bit. Been away for a week and this will continue for another week. More likely to have more time and brain power to fully feel the benefit of what I'm learning.
+
+
