@@ -342,4 +342,8 @@ I did feel it took me a while to get back into the swing of things and I feel li
 
 **Thoughts:** Felt at ease working through these sections. I needed to step away from the Javascript challenges for a bit. Been away for a week and this will continue for another week. More likely to have more time and brain power to fully feel the benefit of what I'm learning.
 
+### Day 38: December 30, 2018
 
+**Today's Progress:** Began working on React Challenges from Front End Libraries Certification on FreeCodeCamp
+
+**Thoughts:** At the company, I work for, the developers have recently been working with React so it's been good working through these challenges to start to understand how they are developing the front end of company's website.
