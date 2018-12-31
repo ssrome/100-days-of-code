@@ -347,3 +347,9 @@ I did feel it took me a while to get back into the swing of things and I feel li
 **Today's Progress:** Began working on React Challenges from Front End Libraries Certification on FreeCodeCamp
 
 **Thoughts:** At the company, I work for, the developers have recently been working with React so it's been good working through these challenges to start to understand how they are developing the front end of company's website.
+
+### Day 39: December 31, 2018
+
+**Today's Progress:** Continued working on React Challenges from Front End Libraries Certification on FreeCodeCamp
+
+**Thoughts:** Still working through this and taking my time to really absorb the information in. One conclusion that I've come to is that I need to be developing little projects to show what I'm learning, even if they are just components and stop thinking I need to do a whole page.
