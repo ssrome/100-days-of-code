@@ -353,3 +353,9 @@ I did feel it took me a while to get back into the swing of things and I feel li
 **Today's Progress:** Continued working on React Challenges from Front End Libraries Certification on FreeCodeCamp
 
 **Thoughts:** Still working through this and taking my time to really absorb the information in. One conclusion that I've come to is that I need to be developing little projects to show what I'm learning, even if they are just components and stop thinking I need to do a whole page.
+
+### Day 40: January 1, 2019
+
+**Today's Progress:** Started on Build a JavaScript Calculator project and continued working on React Challenges from Front End Libraries Certification on FreeCodeCamp
+
+**Thoughts:** I'm still taking my time to work through this part so with that in mind and wanting to do some more projects,  I thought it was a good idea to start on one of the JavaScript projects so then I test how well I've been absorbing all that I've learnt so far.
