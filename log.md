@@ -359,3 +359,9 @@ I did feel it took me a while to get back into the swing of things and I feel li
 **Today's Progress:** Started on Build a JavaScript Calculator project and continued working on React Challenges from Front End Libraries Certification on FreeCodeCamp
 
 **Thoughts:** I'm still taking my time to work through this part so with that in mind and wanting to do some more projects,  I thought it was a good idea to start on one of the JavaScript projects so then I test how well I've been absorbing all that I've learnt so far.
+
+### Day 41: January 3, 2019
+
+**Today's Progress:** Continued working on Build a JavaScript Calculator project from FreeCodeCamp
+
+**Thoughts:** I think I have the HTML and CSS as I want it and I even included a Google Font instead of just using the standard fonts. I didn't have enough time to go into the functionality of it as I want to pick a day when I can more time to really delve into the JavaScript part of this.
