@@ -316,7 +316,7 @@ I did feel it took me a while to get back into the swing of things and I feel li
 
 ### Day 34: December 20, 2018
 
-**Today's Progress:** JavaScript challenges on Codewars and FCC Object Oriented Programming Challenges 
+**Today's Progress:** JavaScript challenges on Codewars and FCC Object Oriented Programming Challenges https://twitter.com/saromsaweb/status/1075899310045310977
 
 **Thoughts:** Thought it was best to take a step back and revisit some Javascript principles.
 
@@ -326,42 +326,48 @@ I did feel it took me a while to get back into the swing of things and I feel li
 
 ### Day 35: December 21, 2018
 
-**Today's Progress:** Continued Object Oriented Programming Challenges on FreeCodeCamp
+**Today's Progress:** Continued Object Oriented Programming Challenges on FreeCodeCamp https://twitter.com/saromsaweb/status/1076247738814263297
 
 **Thoughts:** Pretty much the same as the rest of the week. Going back to the fundamentals. Looking to get back to some actual projects over the break.
 
 ### Day 36: December 28, 2018
 
-**Today's Progress:** Continued Javascript Algorithms And Data Structures Certification on FreeCodeCamp, which included Functional Programming
+**Today's Progress:** Continued Javascript Algorithms And Data Structures Certification on FreeCodeCamp, which included Functional Programming https://twitter.com/saromsaweb/status/1078759044414873600
 
 **Thoughts:** I have been finding it hard to continue this challenge on a consistent basis over the past few weeks. It's hard to get my head in the right space to fully concentrate and take things in.
 
 ### Day 37: December 29, 2018
 
-**Today's Progress:** jQuery and Sass from Front End Libraries Certification on FreeCodeCamp
+**Today's Progress:** jQuery and Sass from Front End Libraries Certification on FreeCodeCamp https://twitter.com/saromsaweb/status/1079143866106822656
 
 **Thoughts:** Felt at ease working through these sections. I needed to step away from the Javascript challenges for a bit. Been away for a week and this will continue for another week. More likely to have more time and brain power to fully feel the benefit of what I'm learning.
 
 ### Day 38: December 30, 2018
 
-**Today's Progress:** Began working on React Challenges from Front End Libraries Certification on FreeCodeCamp
+**Today's Progress:** Began working on React Challenges from Front End Libraries Certification on FreeCodeCamp https://twitter.com/saromsaweb/status/1079489375250141186
 
 **Thoughts:** At the company, I work for, the developers have recently been working with React so it's been good working through these challenges to start to understand how they are developing the front end of company's website.
 
 ### Day 39: December 31, 2018
 
-**Today's Progress:** Continued working on React Challenges from Front End Libraries Certification on FreeCodeCamp
+**Today's Progress:** Continued working on React Challenges from Front End Libraries Certification on FreeCodeCamp https://twitter.com/saromsaweb/status/1079698893259051008
 
 **Thoughts:** Still working through this and taking my time to really absorb the information in. One conclusion that I've come to is that I need to be developing little projects to show what I'm learning, even if they are just components and stop thinking I need to do a whole page.
 
 ### Day 40: January 1, 2019
 
-**Today's Progress:** Started on Build a JavaScript Calculator project and continued working on React Challenges from Front End Libraries Certification on FreeCodeCamp
+**Today's Progress:** Started on Build a JavaScript Calculator project and continued working on React Challenges from Front End Libraries Certification on FreeCodeCamp https://twitter.com/saromsaweb/status/1080234968473915393
 
 **Thoughts:** I'm still taking my time to work through this part so with that in mind and wanting to do some more projects,  I thought it was a good idea to start on one of the JavaScript projects so then I test how well I've been absorbing all that I've learnt so far.
 
 ### Day 41: January 3, 2019
 
-**Today's Progress:** Continued working on Build a JavaScript Calculator project from FreeCodeCamp
+**Today's Progress:** Continued working on Build a JavaScript Calculator project from FreeCodeCamp https://twitter.com/saromsaweb/status/1080955372813336581
 
 **Thoughts:** I think I have the HTML and CSS as I want it and I even included a Google Font instead of just using the standard fonts. I didn't have enough time to go into the functionality of it as I want to pick a day when I can more time to really delve into the JavaScript part of this.
+
+### Day 42: January 6, 2019
+
+**Today's Progress:** Worked on Build a Random Quote Machine project and JSON APIs and Ajax from FreeCodeCamp https://twitter.com/saromsaweb/status/1082050046277890048
+
+**Thoughts:** As I was coding the random quote machine, it was clear that that I needed to look at JSON APIs and Ajax as I hadn't covered getting data from APIs on anything I've done so far on FreeCodeCamp. I also needed to read a little bit more of other ways of grabbing data from an API as I'm not fully confident on this yet.
