@@ -371,3 +371,11 @@ I did feel it took me a while to get back into the swing of things and I feel li
 **Today's Progress:** Worked on Build a Random Quote Machine project and JSON APIs and Ajax from FreeCodeCamp https://twitter.com/saromsaweb/status/1082050046277890048
 
 **Thoughts:** As I was coding the random quote machine, it was clear that that I needed to look at JSON APIs and Ajax as I hadn't covered getting data from APIs on anything I've done so far on FreeCodeCamp. I also needed to read a little bit more of other ways of grabbing data from an API as I'm not fully confident on this yet.
+
+### Day 43: January 7, 2019
+
+**Today's Progress:** Continued on Build a Random Quote Machine project from FreeCodeCamp 
+
+**Thoughts:** The jQuery was working on my local, but not via CodePen. Inspecting what the error was via the console showed that I needed to have 'https' on the API URL instead of 'http'. Though I will probably tweak the CSS, this has essentially been completed as it has passed all the tests.
+[CodePen](https://codepen.io/ssrome/pen/NeMpRV)
+[Github Pages](https://ssrome.github.io/fcc_random_quote_machine/)
