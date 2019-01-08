@@ -374,8 +374,14 @@ I did feel it took me a while to get back into the swing of things and I feel li
 
 ### Day 43: January 7, 2019
 
-**Today's Progress:** Continued on Build a Random Quote Machine project from FreeCodeCamp 
+**Today's Progress:** Continued on Build a Random Quote Machine project from FreeCodeCamp https://twitter.com/saromsaweb/status/1082424073085435905
 
 **Thoughts:** The jQuery was working on my local, but not via CodePen. Inspecting what the error was via the console showed that I needed to have 'https' on the API URL instead of 'http'. Though I will probably tweak the CSS, this has essentially been completed as it has passed all the tests.
-[CodePen](https://codepen.io/ssrome/pen/NeMpRV)
-[Github Pages](https://ssrome.github.io/fcc_random_quote_machine/)
+
+My Random Quote Machine on [CodePen](https://codepen.io/ssrome/pen/NeMpRV) and [Github Pages](https://ssrome.github.io/fcc_random_quote_machine/)
+
+### Day 44: January 8, 2019
+
+**Today's Progress:** Resumed working on Build a Product Landing Page project from FreeCodeCamp https://twitter.com/saromsaweb/status/1082777150183432192
+
+**Thoughts:** Thought it was best to come back to the Responsive Web Design Projects and finally finished them off so I can complete the Responsive Web Design Certification track. I'm progressing well with the product landing page. There's a couple of things I need to focus on, in terms of the CSS but the hope is this will be another project I can tick off the list this week.
