@@ -42,7 +42,7 @@
 
 **Thoughts:** I opted to skip to this as I'm still trying to think of subject for the Build a Tribute Page project. I thought doing the survey first would be a good challenge as I haven't worked on coding forms to even this kind of degree. Before going through FCC, any previous knowledge was a while back. It was a good challenge to sink my teeth into.
 
-1. Build a Survey Form [Codepen](https://codepen.io/ssrome/pen/BGBaLW) and [Github](https://github.com/ssrome/fcc_survey_form)
+1. Build a Survey Form [Codepen](https://codepen.io/ssrome/full/BGBaLW) and [Github](https://github.com/ssrome/fcc_survey_form)
 
 ### Day 7: November 2, 2018
 
@@ -56,7 +56,7 @@
 
 **Thoughts:** My main issue was just thinking of someone to base this on. Other than that it mostly comfortable but I needed to go over a responsive elements, as part of the requirements.
 
-1. Build a Tribute Form [Codepen](https://codepen.io/ssrome/pen/OooJzy) and [Github](https://github.com/ssrome/fcc_tribute-page)
+1. Build a Tribute Form [Codepen](https://codepen.io/ssrome/full/OooJzy) and [Github](https://github.com/ssrome/fcc_tribute-page)
 
 ### Day 9: November 4, 2018
 
@@ -378,10 +378,18 @@ I did feel it took me a while to get back into the swing of things and I feel li
 
 **Thoughts:** The jQuery was working on my local, but not via CodePen. Inspecting what the error was via the console showed that I needed to have 'https' on the API URL instead of 'http'. Though I will probably tweak the CSS, this has essentially been completed as it has passed all the tests.
 
-My Random Quote Machine on [CodePen](https://codepen.io/ssrome/pen/NeMpRV) and [Github Pages](https://ssrome.github.io/fcc_random_quote_machine/)
+My Random Quote Machine on [CodePen](https://codepen.io/ssrome/full/NeMpRV) and [Github Pages](https://ssrome.github.io/fcc_random_quote_machine/)
 
 ### Day 44: January 8, 2019
 
 **Today's Progress:** Resumed working on Build a Product Landing Page project from FreeCodeCamp https://twitter.com/saromsaweb/status/1082777150183432192
 
 **Thoughts:** Thought it was best to come back to the Responsive Web Design Projects and finally finished them off so I can complete the Responsive Web Design Certification track. I'm progressing well with the product landing page. There's a couple of things I need to focus on, in terms of the CSS but the hope is this will be another project I can tick off the list this week.
+
+### Day 45: January 9, 2019
+
+**Today's Progress:** Finished Build a Product Landing Page project from FreeCodeCamp https://twitter.com/saromsaweb/status/1083140195782930437
+
+**Thoughts:** Felt quite good adding a Javascript function to show the current year, on my footer. I think I need to keep doing things like this to give me confidence.
+
+My Product Landing Page on [CodePen](https://codepen.io/ssrome/full/WYNYXj) and [Github Pages](https://ssrome.github.io/fcc_product_landing_page/)
