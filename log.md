@@ -393,3 +393,9 @@ My Random Quote Machine on [CodePen](https://codepen.io/ssrome/full/NeMpRV) and 
 **Thoughts:** Felt quite good adding a Javascript function to show the current year, on my footer. I think I need to keep doing things like this to give me confidence.
 
 My Product Landing Page on [CodePen](https://codepen.io/ssrome/full/WYNYXj) and [Github Pages](https://ssrome.github.io/fcc_product_landing_page/)
+
+### Day 46: January 10, 2019
+
+**Today's Progress:** Worked on Build a Technical Documentation Page project from FreeCodeCamp and TypeScript 5 minutes tutorial https://twitter.com/saromsaweb/status/1083474666348531712
+
+**Thoughts:** Working briefly on the quick [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) tutorial was interested. It was good to get a little starter on one of the languages spoken about at work.
