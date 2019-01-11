@@ -399,3 +399,11 @@ My Product Landing Page on [CodePen](https://codepen.io/ssrome/full/WYNYXj) and 
 **Today's Progress:** Worked on Build a Technical Documentation Page project from FreeCodeCamp and TypeScript 5 minutes tutorial https://twitter.com/saromsaweb/status/1083474666348531712
 
 **Thoughts:** Working briefly on the quick [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) tutorial was interested. It was good to get a little starter on one of the languages spoken about at work.
+
+### Day 47: January 11, 2019
+
+**Today's Progress:** Finished Build a Technical Documentation Page project from FreeCodeCamp. Made a start on Build a Personal Portfolio Webpage. https://twitter.com/saromsaweb/status/1083826010523611137
+
+**Thoughts:** Once I picked what the documentation was on, this ended up being a very enjoyable project to code. Now working on the last of the Responsive Web Design Projects.
+
+My Build a Technical Documentation Page on [CodePen](https://codepen.io/ssrome/full/OaJaob) and [Github Pages](https://ssrome.github.io/fcc_technical_documentation_page/)
