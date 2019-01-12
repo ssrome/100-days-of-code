@@ -407,3 +407,11 @@ My Product Landing Page on [CodePen](https://codepen.io/ssrome/full/WYNYXj) and 
 **Thoughts:** Once I picked what the documentation was on, this ended up being a very enjoyable project to code. Now working on the last of the Responsive Web Design Projects.
 
 My Build a Technical Documentation Page on [CodePen](https://codepen.io/ssrome/full/OaJaob) and [Github Pages](https://ssrome.github.io/fcc_technical_documentation_page/)
+
+### Day 48: January 12, 2019
+
+**Today's Progress:** Finished Build a Personal Portfolio Webpage project from FreeCodeCamp
+
+**Thoughts:** Yay! Finishing this means that I have completed the Responsive Web Design Certification. It felt good to see that certification and look back at all the projects. There's some big improvements needed on a couple of the projects. What I found today is that working on media queries can be frustrating but I'm getting better at it.
+
+My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/full/WLYKPx) and [Github Pages](https://ssrome.github.io/fcc_personal_portfolio_webpage/)
