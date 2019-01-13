@@ -410,8 +410,14 @@ My Build a Technical Documentation Page on [CodePen](https://codepen.io/ssrome/f
 
 ### Day 48: January 12, 2019
 
-**Today's Progress:** Finished Build a Personal Portfolio Webpage project from FreeCodeCamp
+**Today's Progress:** Finished Build a Personal Portfolio Webpage project from FreeCodeCamp https://twitter.com/saromsaweb/status/1084192658178887681
 
 **Thoughts:** Yay! Finishing this means that I have completed the Responsive Web Design Certification. It felt good to see that certification and look back at all the projects. There's some big improvements needed on a couple of the projects. What I found today is that working on media queries can be frustrating but I'm getting better at it.
 
 My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/full/WLYKPx) and [Github Pages](https://ssrome.github.io/fcc_personal_portfolio_webpage/)
+
+### Day 49: January 13, 2019
+
+**Today's Progress:** Back to looking at React, which included coding a basic React component https://twitter.com/saromsaweb/status/1084593288559108096
+
+**Thoughts:** My previous work on React was on FreeCodeCamp. This time, I actually coded my first React component in preparation for the other FreeCodeCamp projects for the Front End Libraries Certification.
