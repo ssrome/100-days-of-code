@@ -421,3 +421,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Back to looking at React, which included coding a basic React component https://twitter.com/saromsaweb/status/1084593288559108096
 
 **Thoughts:** My previous work on React was on FreeCodeCamp. This time, I actually coded my first React component in preparation for the other FreeCodeCamp projects for the Front End Libraries Certification.
+
+### Day 50: January 14, 2019
+
+**Today's Progress:** Working on React on FreeCodeCamp and started a project with a colleague where I'll be coding the frontend while he codes the backend https://twitter.com/saromsaweb/status/1084927909423390720
+
+**Thoughts:** Started off by by doing some work grabbing data from an API. So far I've only managed to grab from one set of results. Need to expand on grabing the same key but from mutiple results.
