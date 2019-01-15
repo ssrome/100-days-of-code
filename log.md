@@ -427,3 +427,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Working on React on FreeCodeCamp and started a project with a colleague where I'll be coding the frontend while he codes the backend https://twitter.com/saromsaweb/status/1084927909423390720
 
 **Thoughts:** Started off by by doing some work grabbing data from an API. So far I've only managed to grab from one set of results. Need to expand on grabing the same key but from mutiple results.
+
+### Day 51: January 15, 2019
+
+**Today's Progress:** Coded some JavaScript for the project for my colleague and more React.
+
+**Thoughts:** Was actually going work on the npm section of FreeCodeCamp, as I need to learn about this for my projects outside of this. Ran into a little trouble with the first test so need to resume that so the URL I'm using can be recognised.
