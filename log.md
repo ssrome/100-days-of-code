@@ -430,6 +430,12 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 ### Day 51: January 15, 2019
 
-**Today's Progress:** Coded some JavaScript for the project for my colleague and more React.
+**Today's Progress:** Coded some JavaScript for the project for my colleague and more React https://twitter.com/saromsaweb/status/1085321525945876481
 
 **Thoughts:** Was actually going work on the npm section of FreeCodeCamp, as I need to learn about this for my projects outside of this. Ran into a little trouble with the first test so need to resume that so the URL I'm using can be recognised.
+
+### Day 52: January 16, 2019
+
+**Today's Progress:** Working on one of my projects and more React https://twitter.com/saromsaweb/status/1085685785016352768
+
+**Thoughts:** A bit a of frustrating day but there's always going to be one.
