@@ -439,3 +439,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Working on one of my projects and more React https://twitter.com/saromsaweb/status/1085685785016352768
 
 **Thoughts:** A bit a of frustrating day but there's always going to be one.
+
+### Day 53: January 17, 2019
+
+**Today's Progress:** Working on FreeCodeCamp's Markdown Previewer project and React challenges https://twitter.com/saromsaweb/status/1086016860582281216
+
+**Thoughts:** I had previously done a quick React component but now I've decided to implement and work through something a little bigger. Using the Markdown Previewer project as an opportunity to get really into coding a React app. I'm also supplimenting this by looking at other resources to get into more detail about React.
