@@ -451,3 +451,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** More on React https://twitter.com/saromsaweb/status/1086747501804380162
 
 **Thoughts:** Going through [Tania Rascia's blog post](https://www.taniarascia.com/getting-started-with-react/) about creating a React App as the only way I've done it locally, so far, has been loading in JavaScript libraries into the page. Now I'm going through creating a full project.
+
+### Day 55: January 20, 2019
+
+**Today's Progress:** Working on FreeCodeCamp's Markdown Previewer project and working on a personal project in React https://twitter.com/saromsaweb/status/1087097698845712384
+
+**Thoughts:** I'm becoming more comfortable with working on the basics in React. I've managed to code a couple of components and now feel ready to add React to the front end libraries projects I've already started.
