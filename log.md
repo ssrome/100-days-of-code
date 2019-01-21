@@ -457,3 +457,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Working on FreeCodeCamp's Markdown Previewer project and working on a personal project in React https://twitter.com/saromsaweb/status/1087097698845712384
 
 **Thoughts:** I'm becoming more comfortable with working on the basics in React. I've managed to code a couple of components and now feel ready to add React to the front end libraries projects I've already started.
+
+### Day 56: January 21, 2019
+
+**Today's Progress:** Finished the React challenges and started on the Redux ones on FreeCodeCamp
+
+**Thoughts:** Found them a little frustrating as I was making little mistakes.
