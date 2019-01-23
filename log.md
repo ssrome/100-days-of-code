@@ -460,6 +460,12 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 ### Day 56: January 21, 2019
 
-**Today's Progress:** Finished the React challenges and started on the Redux ones on FreeCodeCamp
+**Today's Progress:** Finished the React challenges and started on the Redux ones on FreeCodeCamp https://twitter.com/saromsaweb/status/1087454584669433856
 
 **Thoughts:** Found them a little frustrating as I was making little mistakes.
+
+### Day 57: January 23, 2019
+
+**Today's Progress:** More Redux challenges on FreeCodeCamp https://twitter.com/saromsaweb/status/1088199964419911680
+
+**Thoughts:** Struggling to retain anything today. Don't wan't to blame the fact I'm feeling poorly. Need to go back over things.
