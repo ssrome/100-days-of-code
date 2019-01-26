@@ -474,4 +474,10 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 **Today's Progress:** Worked on React and Redux challenges on FreeCodeCamp https://twitter.com/saromsaweb/status/1088553305154961408
 
-**Thoughts:** 
+**Thoughts:** This was another day of struggle. Need to come back to this when I'm feeling better.
+
+### Day 59: January 25, 2019
+
+**Today's Progress:** Worked on React projects https://twitter.com/saromsaweb/status/1089256108206772226
+
+**Thoughts:** As I'm travelling and will be using a different MacBook, I was spending time setting up the projects that I wanted to work on in React. This will give me a good basis for completing a couple of small projects.
