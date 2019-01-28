@@ -487,3 +487,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Worked on JavaScript and React https://twitter.com/saromsaweb/status/1089658614007119872
 
 **Thoughts:** Travelling on a group holiday this week so won't be able to dedicate as much time as I would like. Struggled with what I was trying to work on involving JS. Decided to move back on to React as I need more time to focus on the JS stuff.
+
+### Day 61: January 28, 2019
+
+**Today's Progress:** Worked on React projects https://twitter.com/saromsaweb/status/1090023220747661315
+
+**Thoughts:** Managed to get some time today, though I spent a lot of my time debugging issues 
