@@ -493,3 +493,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Worked on React projects https://twitter.com/saromsaweb/status/1090023220747661315
 
 **Thoughts:** Managed to get some time today, though I spent a lot of my time debugging issues 
+
+### Day 62: January 30, 2019
+
+**Today's Progress:** Working through Data Visualization with D3 from FreeCodeCamp
+
+**Thoughts:** I have been struggling to get quality time to work on projects so thought it was best to go back to FreeCodeCamp's curriculum until I return home.
