@@ -499,3 +499,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Working through Data Visualization with D3 from FreeCodeCamp
 
 **Thoughts:** I have been struggling to get quality time to work on projects so thought it was best to go back to FreeCodeCamp's curriculum until I return home.
+
+### Day 63: January 31, 2019
+
+**Today's Progress:** Finished working through Data Visualization with D3 from FreeCodeCamp
+
+**Thoughts:** I've enjoyed working through the D3 challenges, over the past two days. As it's been a while, I will need to refresh my memory on the API challenges so I can work through the data visualization projects
