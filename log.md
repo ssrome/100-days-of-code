@@ -508,6 +508,12 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 ### Day 64: February 1, 2019
 
-**Today's Progress:** Working on Data Visualization with D3 projects from FreeCodeCamp 
+**Today's Progress:** Working on Data Visualization with D3 projects from FreeCodeCamp https://twitter.com/saromsaweb/status/1091466841460011014
 
 **Thoughts:** Started initial setup but was finding it hard at the start. Hoping to get some real time to work on these, as I know I need more than an hour a day to really tackle things.
+
+### Day 65: February 4, 2019
+
+**Today's Progress:** Working on personal React project https://twitter.com/saromsaweb/status/1092549520964153344
+
+**Thoughts:** Decided to work on one of my personal projects, a site that was originally written in HTML, CSS and a bit of PHP. Now re-writing this in React, partially because I never fully felt comfortable learning PHP and it gives me a chance to implement what I've been learning so far.
