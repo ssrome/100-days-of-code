@@ -517,3 +517,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Working on personal React project https://twitter.com/saromsaweb/status/1092549520964153344
 
 **Thoughts:** Decided to work on one of my personal projects, a site that was originally written in HTML, CSS and a bit of PHP. Now re-writing this in React, partially because I never fully felt comfortable learning PHP and it gives me a chance to implement what I've been learning so far.
+
+### Day 66: February 5, 2019
+
+**Today's Progress:** Continued working on personal React project https://twitter.com/saromsaweb/status/1092916891058954240
+
+**Thoughts:** I ended up doing a lot of troubleshooting. I think I've come to grips with react-router and I'm trying to work through the different pages I need to set up for me site.
