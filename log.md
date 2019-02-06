@@ -523,3 +523,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Continued working on personal React project https://twitter.com/saromsaweb/status/1092916891058954240
 
 **Thoughts:** I ended up doing a lot of troubleshooting. I think I've come to grips with react-router and I'm trying to work through the different pages I need to set up for me site.
+
+### Day 67: February 6, 2019
+
+**Today's Progress:** Continued working on personal React project https://twitter.com/saromsaweb/status/1093269082202402818
+
+**Thoughts:** Getting more confident with React. My frustation is with CSS. It's not that I'm not confident, it's just I can end up spending so much time on making my breakpoints look good.
