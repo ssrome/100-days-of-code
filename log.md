@@ -529,3 +529,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Continued working on personal React project https://twitter.com/saromsaweb/status/1093269082202402818
 
 **Thoughts:** Getting more confident with React. My frustation is with CSS. It's not that I'm not confident, it's just I can end up spending so much time on making my breakpoints look good.
+
+### Day 68: February 7, 2019
+
+**Today's Progress:** More work on personal React project https://twitter.com/saromsaweb/status/1093642384225783808
+
+**Thoughts:** Making good progress on some of the components but found a couple of things that I need to brush up on so I can progress further.
