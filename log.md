@@ -541,3 +541,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Working the breakpoints for some of the React components I’ve started on my one of personal projects https://twitter.com/saromsaweb/status/1094373498112356355
 
 **Thoughts:** With a lot more time today than usual, I decided to take a different course of action in the way I had done one of my components and the CSS in general.
+
+### Day 70: February 10, 2019
+
+**Today's Progress:** Continued personal React project https://twitter.com/saromsaweb/status/1094694242591608833
+
+**Thoughts:** Hit a couple of stumbling blocks that made me question why I've decided to do this project in React. The lack of confidence has made me question my choice, which I'm sure I'll move past.
