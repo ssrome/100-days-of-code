@@ -535,3 +535,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** More work on personal React project https://twitter.com/saromsaweb/status/1093642384225783808
 
 **Thoughts:** Making good progress on some of the components but found a couple of things that I need to brush up on so I can progress further.
+
+### Day 69: February 9, 2019
+
+**Today's Progress:** Working the breakpoints for some of the React components I’ve started on my one of personal projects https://twitter.com/saromsaweb/status/1094373498112356355
+
+**Thoughts:** With a lot more time today than usual, I decided to take a different course of action in the way I had done one of my components and the CSS in general.
