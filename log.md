@@ -553,3 +553,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Working on one of the bigger components for my personal React project https://twitter.com/saromsaweb/status/1095073175837331457
 
 **Thoughts:** Working on my project and started to work on a component that renders data from JSON. I'm hoping by doing this, it will help me get more confident doing this with an actual API response.
+
+### Day 72: February 12, 2019
+
+**Today's Progress:** Continued working on a React component that takes JSON and renders it on the page, which is part of my personal React project. https://twitter.com/saromsaweb/status/1095453787521777669
+
+**Thoughts:** With some help online, I was finally able to render some data to the page. I still don't feel completely confident using this method but with more practice, I hope to change that feeling.
