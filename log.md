@@ -559,3 +559,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Continued working on a React component that takes JSON and renders it on the page, which is part of my personal React project. https://twitter.com/saromsaweb/status/1095453787521777669
 
 **Thoughts:** With some help online, I was finally able to render some data to the page. I still don't feel completely confident using this method but with more practice, I hope to change that feeling.
+
+### Day 73: February 13, 2019
+
+**Today's Progress:** Been working on a couple of components to continue my personal React project. https://twitter.com/saromsaweb/status/1095821244908404736
+
+**Thoughts:** I feel like its finally coming together as I finished one of the bigger components today.
