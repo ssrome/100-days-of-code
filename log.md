@@ -568,6 +568,12 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 ### Day 74: February 15, 2019
 
-**Today's Progress:** Continue my personal React project and JS challenges on Coderbyte https://twitter.com/saromsaweb/status/1096534065354866689
+**Today's Progress:** Continued on my personal React project and JS challenges on Coderbyte https://twitter.com/saromsaweb/status/1096534065354866689
 
 **Thoughts:** Wanted to refresh my skills on JavaScript and read that Coderbyte might be a good place to try. Starting on the easy ones and working my way through.
+
+### Day 75: February 16, 2019
+
+**Today's Progress:** Continued working on another component for my personal React project https://twitter.com/saromsaweb/status/1096914404329836544
+
+**Thoughts:** A little bit frustrating as the component I wanted to work on was causing issues. Moved onto another, which I was able to finish. Will come back to the problematic one on another day.
