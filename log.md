@@ -583,3 +583,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Continued working on my personal React project https://twitter.com/saromsaweb/status/1097230949593554944
 
 **Thoughts:** My issues today were not from a coding standpoint but more content. This shows me that I should go with more of a plan of what I want to show first before I'm ready to delve past the basic template of my site.
+
+### Day 77: February 19, 2019
+
+**Today's Progress:** Continued working on my personal React project https://twitter.com/saromsaweb/status/1097998867004571650
+
+**Thoughts:** Now I'm on the more complex components which requires more concentrated time than I'm able to give today. Outside of the hour on this, I did end up doing some pre-planning for a project that I will work on during my next round, by drawing up some rough designs and thoughts on how I will break it down.
