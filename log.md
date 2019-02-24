@@ -607,3 +607,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** An evening of JavaScript exercises https://twitter.com/saromsaweb/status/1099448986715459586
 
 **Thoughts:** Decided to take a step back and revisit the JavaScript exercises. My plan for the remaining days of the challenge is to work on both JavaScript and React.
+
+### Day 81: February 24, 2019
+
+**Today's Progress:** JavaScript exercises and React https://twitter.com/saromsaweb/status/1099784401112756224
+
+**Thoughts:** Going through some more Javascript and continuing on another component for my React project. Excited seeing this come together.
