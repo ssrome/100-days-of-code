@@ -613,3 +613,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** JavaScript exercises and React https://twitter.com/saromsaweb/status/1099784401112756224
 
 **Thoughts:** Going through some more Javascript and continuing on another component for my React project. Excited seeing this come together.
+
+### Day 82: February 26, 2019
+
+**Today's Progress:** A light React session, due to sickness https://twitter.com/saromsaweb/status/1100530432175718401
+
+**Thoughts:** A light session for me which was due to the fact I haven't been feeling well over the past couple of days
