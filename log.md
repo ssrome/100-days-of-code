@@ -624,4 +624,10 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 **Today's Progress:** JavaScript session https://twitter.com/saromsaweb/status/1101252687511867393
 
-**Thoughts:** Still not well so my progress is a little interrupted
+**Thoughts:** Still not well so my progress is a little interrupted.
+
+### Day 84: March 2, 2019
+
+**Today's Progress:** Basic JavaScript refresher session https://twitter.com/saromsaweb/status/1101987904442851329
+
+**Thoughts:** Taking the opportunitity to refresh on some of the basics while I'm still not well and not thinking clearly.
