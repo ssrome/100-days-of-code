@@ -637,3 +637,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Another JavaScript refresher session https://twitter.com/saromsaweb/status/1102675285852504064
 
 **Thoughts:** Another opportunity to get back to basics and refresh my brain on JavaScript. Feeling a lot better physically and mentally so should be back working on my projects pretty soon.
+
+### Day 86: March 5, 2019
+
+**Today's Progress:** More basic JavaScript https://twitter.com/saromsaweb/status/1103079753504964608
+
+**Thoughts:**
