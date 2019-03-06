@@ -642,4 +642,10 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 **Today's Progress:** More basic JavaScript https://twitter.com/saromsaweb/status/1103079753504964608
 
-**Thoughts:**
+**Thoughts:** Another good session which is reminding me of some methods I've forgotten.
+
+### Day 87: March 6, 2019
+
+**Today's Progress:** JavaScript exercises https://twitter.com/saromsaweb/status/1103423318315683840
+
+**Thoughts:** This was very well needed One exercise proved I needed these refreshers as it took me longer to solve than it should of.
