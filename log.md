@@ -649,3 +649,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** JavaScript exercises https://twitter.com/saromsaweb/status/1103423318315683840
 
 **Thoughts:** This was very well needed One exercise proved I needed these refreshers as it took me longer to solve than it should of.
+
+### Day 88: March 7, 2019
+
+**Today's Progress:** JavaScript objects https://twitter.com/saromsaweb/status/1103795744446836739
+
+**Thoughts:** 
