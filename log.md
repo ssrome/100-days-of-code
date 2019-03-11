@@ -661,3 +661,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** More JavaScript exercises https://twitter.com/saromsaweb/status/1104166071404281856
 
 **Thoughts:** Unfortunate that I'm not going to be able to do anything tomorrow as I'm away but hopefully I can go back to my projects for the last leg of the challenge.
+
+### Day 90: March 11, 2019
+
+**Today's Progress:** Working on a mini project that involves HTML, CSS and JavaScript https://twitter.com/saromsaweb/status/1105235225225900033
+
+**Thoughts:** Back from my travels and looked to resume work on projects.   
