@@ -666,4 +666,10 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 **Today's Progress:** Working on a mini project that involves HTML, CSS and JavaScript https://twitter.com/saromsaweb/status/1105235225225900033
 
-**Thoughts:** Back from my travels and looked to resume work on projects.   
+**Thoughts:** Back from my travels and looked to resume work on projects.
+
+### Day 91: March 13, 2019
+
+**Today's Progress:** Working on outstanding FreeCodeCamp front end libraries projects https://twitter.com/saromsaweb/status/1105950136994287616
+
+**Thoughts:** Decided to resume working through some of the outstanding projects I have so I can take a step closer to finishing the certification 
