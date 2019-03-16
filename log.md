@@ -685,3 +685,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Continued working on outstanding FreeCodeCamp projects https://twitter.com/saromsaweb/status/1106659559425351680
 
 **Thoughts:** Rethinking the way I initailly coded the Pomodoro Clock challenge.
+
+### Day 94: March 16, 2019
+
+**Today's Progress:** Working on JavaScript exercises https://twitter.com/saromsaweb/status/1107023132341227521
+
+**Thoughts:** Seemed to hit a brick wall with a challenge.
