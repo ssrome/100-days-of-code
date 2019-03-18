@@ -691,3 +691,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Working on JavaScript exercises https://twitter.com/saromsaweb/status/1107023132341227521
 
 **Thoughts:** Seemed to hit a brick wall with a challenge.
+
+### Day 95: March 18, 2019
+
+**Today's Progress:** Continued working on JavaScript exercises https://twitter.com/saromsaweb/status/1107740516060487682
+
+**Thoughts:** 
