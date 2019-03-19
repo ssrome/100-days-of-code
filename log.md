@@ -696,4 +696,10 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 **Today's Progress:** Continued working on JavaScript exercises https://twitter.com/saromsaweb/status/1107740516060487682
 
-**Thoughts:** 
+**Thoughts:** Still stuck on an exercise which is quite frustrating.
+
+### Day 96: March 19, 2019
+
+**Today's Progress:** Working on React project https://twitter.com/saromsaweb/status/1108124979001020416
+
+**Thoughts:** Came back to this to work on some outstanding projects, especially as I've been so frustrated with some of the things I've been working on previously.
