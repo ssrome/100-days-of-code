@@ -703,3 +703,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** Working on React project https://twitter.com/saromsaweb/status/1108124979001020416
 
 **Thoughts:** Came back to this to work on some outstanding projects, especially as I've been so frustrated with some of the things I've been working on previously.
+
+### Day 97: March 21, 2019
+
+**Today's Progress:** Working on React project https://twitter.com/saromsaweb/status/1108843089295216644
+
+**Thoughts:** 
