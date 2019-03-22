@@ -708,4 +708,10 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 
 **Today's Progress:** Working on React project https://twitter.com/saromsaweb/status/1108843089295216644
 
+**Thoughts:** Working on the CSS part of the project before I get into changing the way I've done some of the components, functionality-wise.
+
+### Day 98: March 22, 2019
+
+**Today's Progress:** Continuing working on React project https://twitter.com/saromsaweb/status/1109229851804950528
+
 **Thoughts:** 
