@@ -721,3 +721,9 @@ My Build a Personal Portfolio Webpage on [Codepen](https://codepen.io/ssrome/ful
 **Today's Progress:** More work on React project https://twitter.com/saromsaweb/status/1109962924087480321
 
 **Thoughts:** Hitting some road blocks plus it's not a good idea for me to code when the painkillers I'm on make me so sleeply.
+
+### Day 100: March 26, 2019
+
+**Today's Progress:** Continued working on React project on last day of challenge https://twitter.com/saromsaweb/status/1110686381846773764
+
+**Thoughts:** Last day of the challenge and I'm glad I've done this. This will be the first of many rounds. While for the most part, I've enjoyed it there has been some challenging times outside of the challenge.
