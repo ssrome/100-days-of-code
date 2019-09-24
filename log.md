@@ -15,3 +15,14 @@ One of the exercises didn't have clear instructions so it wasn't until I ran the
 
 1. [Square(n) Sum](https://www.codewars.com/kata/square-n-sum/javascript)
 2. [Difference of Volumes of Cuboids](https://www.codewars.com/kata/difference-of-volumes-of-cuboids/javascript)
+3. [Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name/javascript)
+
+### R2D3: September 24, 2019
+Another session working on Javascript exercises on Codewars
+
+**Thoughts:** 
+Struggled on a couple, in which only one of those I got to complete. Will come back to the other one at a later time.
+
+1. [Get Nth Even Number](https://www.codewars.com/kata/get-nth-even-number/javascript)
+2. [Grasshopper - Messi goals function](https://www.codewars.com/kata/grasshopper-messi-goals-function/javascript)
+3. [Square Every Digit](https://www.codewars.com/kata/square-every-digit/javascript)
