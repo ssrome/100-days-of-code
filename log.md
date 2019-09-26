@@ -26,3 +26,9 @@ Struggled on a couple, in which only one of those I got to complete. Will come b
 1. [Get Nth Even Number](https://www.codewars.com/kata/get-nth-even-number/javascript)
 2. [Grasshopper - Messi goals function](https://www.codewars.com/kata/grasshopper-messi-goals-function/javascript)
 3. [Square Every Digit](https://www.codewars.com/kata/square-every-digit/javascript)
+
+### R2D4: September 26, 2019
+Worked on a React component for my site
+
+**Thoughts:** 
+Was unable to work on anything yesterday so decided to do an early morning session today. Gonna have to do a React refresher
