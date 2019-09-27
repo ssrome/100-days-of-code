@@ -32,3 +32,9 @@ Worked on a React component for my site
 
 **Thoughts:** 
 Was unable to work on anything yesterday so decided to do an early morning session today. Gonna have to do a React refresher
+
+### R2D5: September 27, 2019
+Continued working on my site, which included adding some component and functionality tests
+
+**Thoughts:** 
+A little bit of a struggle as I had to reaquaint myself to the tests as it's been a while.
