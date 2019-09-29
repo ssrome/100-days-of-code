@@ -38,3 +38,8 @@ Continued working on my site, which included adding some component and functiona
 
 **Thoughts:** 
 A little bit of a struggle as I had to reaquaint myself to the tests as it's been a while.
+
+### R2D6: September 29, 2019
+Working on a new project involving React.
+
+**Thoughts:** 
