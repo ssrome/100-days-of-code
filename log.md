@@ -43,3 +43,13 @@ A little bit of a struggle as I had to reaquaint myself to the tests as it's bee
 Working on a new project involving React.
 
 **Thoughts:** 
+Reaquainting myself with React
+
+### R2D7: October 1, 2019
+Worked on Javascript exercises on Codewars
+
+**Thoughts:** 
+Working on 8kyu and 7kyu challenges so I can get back into the flow.
+
+1. [You're a square!](https://www.codewars.com/kata/youre-a-square/javascript)
+2. [Sum Arrays](https://www.codewars.com/kata/sum-arrays/javascript)
