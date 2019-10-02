@@ -53,3 +53,9 @@ Working on 8kyu and 7kyu challenges so I can get back into the flow.
 
 1. [You're a square!](https://www.codewars.com/kata/youre-a-square/javascript)
 2. [Sum Arrays](https://www.codewars.com/kata/sum-arrays/javascript)
+3. [You only need one - Beginner](https://www.codewars.com/kata/you-only-need-one-beginner/javascript)
+
+### R2D8: October 2, 2019
+Continued working on new React project
+
+**Thoughts:**
