@@ -59,3 +59,10 @@ Working on 8kyu and 7kyu challenges so I can get back into the flow.
 Continued working on new React project
 
 **Thoughts:**
+Was working on new component and testing. Trying to get better at testing my work.
+
+### R2D9: October 4, 2019
+A bit of React, which included going over the React section of freeCodeCamp
+
+**Thoughts:**
+It's good to go over some of the fundamentals as it refreshes my brain
