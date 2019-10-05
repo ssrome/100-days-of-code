@@ -66,3 +66,13 @@ A bit of React, which included going over the React section of freeCodeCamp
 
 **Thoughts:**
 It's good to go over some of the fundamentals as it refreshes my brain
+
+### R2D10: October 5, 2019
+Worked on a few Javascript exercises on Codewars
+
+**Thoughts:**
+Just trying to keep myself working on JavaScript orientated things so I can get better at coming up with solutions.
+
+1. [101 Dalmatians - squash the bugs, not the dogs!](https://www.codewars.com/kata/101-dalmatians-squash-the-bugs-not-the-dogs/javascript)
+2. [Be Concise I - The Ternary Operator](https://www.codewars.com/kata/be-concise-i-the-ternary-operator/javascript)
+3. [Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array/javascript)
