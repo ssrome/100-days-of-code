@@ -76,3 +76,9 @@ Just trying to keep myself working on JavaScript orientated things so I can get 
 1. [101 Dalmatians - squash the bugs, not the dogs!](https://www.codewars.com/kata/101-dalmatians-squash-the-bugs-not-the-dogs/javascript)
 2. [Be Concise I - The Ternary Operator](https://www.codewars.com/kata/be-concise-i-the-ternary-operator/javascript)
 3. [Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array/javascript)
+
+### R2D11: October 8, 2019
+Worked on Rock, Paper, Scissors project with HTML, CSS and Javascript
+
+**Thoughts:**
+Couldn't doing any coding, the last couple of days, due to other commitments and travelling. Decided to work on a Rock, Paper, Scissors project that was loosely based on a [CodeWars challenge]((https://www.codewars.com/kata/5672a98bdbdd995fad00000f/solutions/javascript)) I did in the first round.
