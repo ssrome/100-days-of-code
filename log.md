@@ -82,3 +82,9 @@ Worked on Rock, Paper, Scissors project with HTML, CSS and Javascript
 
 **Thoughts:**
 Couldn't doing any coding, the last couple of days, due to other commitments and travelling. Decided to work on a Rock, Paper, Scissors project that was loosely based on a [CodeWars challenge]((https://www.codewars.com/kata/5672a98bdbdd995fad00000f/solutions/javascript)) I did in the first round.
+
+### R2D12: October 9, 2019
+Continued working on Rock, Paper, Scissors, concentrating on re-writing the Javascript part
+
+**Thoughts:**
+Still travelling so could only spend an hour, when I wanted to finish this. Ended up refactoring some of the Javascript, which I then ended up causing a bug. Got there in the end but need to now finish the CSS.
