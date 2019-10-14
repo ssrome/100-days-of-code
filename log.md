@@ -88,3 +88,9 @@ Continued working on Rock, Paper, Scissors, concentrating on re-writing the Java
 
 **Thoughts:**
 Still travelling so could only spend an hour, when I wanted to finish this. Ended up refactoring some of the Javascript, which I then ended up causing a bug. Got there in the end but need to now finish the CSS.
+
+### R2D13: October 14, 2019
+Continued working on the CSS part of my Rock, Paper, Scissors project
+
+**Thoughts:**
+This has been a challenging few days. Travelling and working with one hand, due to me finally needing to rest a sprained wrist.
