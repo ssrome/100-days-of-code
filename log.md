@@ -94,3 +94,9 @@ Continued working on the CSS part of my Rock, Paper, Scissors project
 
 **Thoughts:**
 This has been a challenging few days. Travelling and working with one hand, due to me finally needing to rest a sprained wrist.
+
+### R2D14: October 15, 2019
+Finished the main CSS part of my Rock, Paper, Scissors project
+
+**Thoughts:**
+There's a couple of small things that need to be worked on, which has been frustrating to make look better.
