@@ -100,3 +100,9 @@ Finished the main CSS part of my Rock, Paper, Scissors project
 
 **Thoughts:**
 There's a couple of small things that need to be worked on, which has been frustrating to make look better.
+https://ssrome.github.io/rock_paper_scissors/
+
+### R2D15: October 16, 2019
+Started working on a mini project in React
+
+**Thoughts:**
