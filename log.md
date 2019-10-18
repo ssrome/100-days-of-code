@@ -106,3 +106,9 @@ https://ssrome.github.io/rock_paper_scissors/
 Started working on a mini project in React
 
 **Thoughts:**
+Had some initial setup work done and had to remember how to incorporate FontAwesome. Nice to have the refresh
+
+### R2D16: October 18, 2019
+Working on a coming soon page in React
+
+**Thoughts:**
