@@ -112,3 +112,10 @@ Had some initial setup work done and had to remember how to incorporate FontAwes
 Working on a coming soon page in React
 
 **Thoughts:**
+Got frustrated that I couldn't spend more time on this.
+
+### R2D17: October 20, 2019
+Continued working on a React based project
+
+**Thoughts:**
+Again I was limited on time. Hopefully this will get better in the upcoming week.
