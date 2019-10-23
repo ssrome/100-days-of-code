@@ -119,3 +119,9 @@ Continued working on a React based project
 
 **Thoughts:**
 Again I was limited on time. Hopefully this will get better in the upcoming week.
+
+### R2D18: October 23, 2019
+More React based work
+
+**Thoughts:**
+The last couple of days I had to rest my hand again so I wouldn't have got much done in the time I had available. 
