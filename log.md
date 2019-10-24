@@ -125,3 +125,8 @@ More React based work
 
 **Thoughts:**
 The last couple of days I had to rest my hand again so I wouldn't have got much done in the time I had available. 
+
+### R2D19: October 24, 2019
+Working on a small React based project and trying to finish off some of the logic
+
+**Thoughts:**
